@@ -36,6 +36,8 @@ git clone https://github.com/RusakovIgor/car-inventory-app.git
 
 ---
 
+Либо перейти по ссылке https://rusakovigor.github.io/car-inventory-app
+
 ## Автор
 
 **Игорь Русаков**  
